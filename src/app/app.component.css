@@ -14,7 +14,7 @@ border-image: linear-gradient(to right, #fed330 0%,#fed330 20%,#e63841 20%,#e638
     transform: rotate(-50deg);
     width: 40%;
     margin-left: 30%;
-    margin-top: 1%;
+    margin-top: 2.5%;
 }
 .row{
     display: flex;
